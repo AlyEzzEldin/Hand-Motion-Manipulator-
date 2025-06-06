@@ -38,3 +38,13 @@ HandyBot is a gesture-controlled system that lets you operate a robotic arm with
 Install the dependencies:
 ```bash
 pip install opencv-python mediapipe pyserial
+```
+
+## ▶️ Running the Project
+
+To start controlling your robotic arm with hand gestures:
+
+### 1. Run the Python Script
+```bash
+python HandControlledManipulator.py
+```
